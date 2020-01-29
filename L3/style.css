@@ -1,0 +1,49 @@
+div{
+    width: 100px;
+    height: 100px;
+}
+
+.fa-calendar{
+    font-size: 40px;
+    color: tomato;
+}
+a{
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    
+
+}
+
+.first{
+    background: yellow;
+}
+.second{
+    background: tomato;
+
+}
+.third{
+    background: blue;
+   
+}
+
+
+.fa
+/* body div:nth-child(1){
+    background: coral;
+}
+
+body div:nth-child(2){
+    background: red;
+}
+
+body div:nth-child(3){
+    background:green;
+} */
